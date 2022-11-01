@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "db85544c2e82cd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8848d2023d69309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d31b121681ed1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7db306eefd0ef4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "988755d729e2179a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c3183430884d50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82c314d8b9df4e43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c04b2be7cf9a088",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9115c6f60530756",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf07150e0a6576bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5a149164b8f0d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cheatsheets/Recon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17a2fd2e074691dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cheatsheets/Recon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a93468e7c6a55feb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44245d2d11a0f06e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cheatsheets/Recon.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0d31b121681ed1ba",
+  "lastOpenFiles": [
+    "Cheatsheets/Active Directory.md",
+    "Cheatsheets/Windows.md",
+    "Cheats/Recon.md",
+    "Boxes.md",
+    "Cheatsheet.md",
+    "Cheats/Windows Commands.md",
+    "Untitled.md"
+  ]
+}
