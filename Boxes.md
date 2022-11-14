@@ -1,13 +1,13 @@
 ## Windows
-- [ ] Legacy
+- [x] Legacy
 - [ ] Blue
 - [ ] Devel
-- [ ] Optimum
+- [x] Optimum
 - [ ] Bastard
 - [ ] Granny
 - [ ] Arctic
 - [ ] Grandpa
-- [ ] Silo
+- [x] Silo
 - [ ] Bounty
 - [ ] Jerry
 - [ ] Conceal
@@ -20,6 +20,6 @@
 - [ ] Servmon
 - [ ] Active
 - [ ] Remote
-- [ ] Fuse
+- [ ] Fuse #AD
 - [ ] Omni
 - [ ] Worker 
