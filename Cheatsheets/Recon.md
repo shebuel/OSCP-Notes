@@ -5,13 +5,26 @@
 sudo $(which autorecon) <OPTIONS>
 ```
 ```bash
-sudo $(which autorecon) -t <target_file> -o <output_dir> -vv
+sudo $(which autorecon) -t <target_file> -o <output_dir> --only-scans-dir -vv
 ```
 
 ### Nmap Automator
 ```bash
 ./nmapAutomator.sh -H academy.htb -t Recon #<-- Basic Recon
 ./nmapAutomator.sh -H 10.1.1.1 -t Port #<-- Full port scan
+```
+
+## DNS
+
+```bash
+nslookup
+> server <ip>
+> 127.0.0.1
+> <ip>
+#Hopefully gives a domain name
+```
+```bash
+dig axfr <domain name> @<ip>
 ```
 
 ## SMB

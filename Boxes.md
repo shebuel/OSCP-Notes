@@ -23,3 +23,47 @@
 - [ ] Fuse #AD
 - [ ] Omni
 - [ ] Worker 
+
+## Linux
+- [x] Lame
+- [ ] brainfuck
+- [ ] shocker
+- [ ] bashed
+- [ ] nibbles
+- [ ] beep
+- [x] cronos
+- [ ] nineveh
+- [ ] sense
+- [ ] solidstate
+- [ ] node
+- [ ] valentine
+- [ ] poison
+- [ ] sunday
+- [ ] tartarsauce
+- [ ] Irked
+- [ ] Friendzone
+- [ ] Swagshop
+- [ ] Networked
+- [ ] jarvis
+- [ ] Mirai
+- [ ] Popcorn
+- [ ] Haircut
+- [ ] Blocky
+- [ ] Frolic
+- [ ] Postman
+- [ ] Mango
+- [ ] Traverxec
+- [ ] OpenAdmin
+- [ ] Magic
+- [ ] Admirer
+- [ ] Blunder
+- [ ] Tabby 
+- [ ] Doctor
+- [ ] SneakyMailer
+- [ ] Passage
+- [ ] Luanne
+- [ ] Time
+- [ ] Ready
+- [ ] Delivery
+- [ ] Ophiuchi
+

@@ -25,14 +25,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boxes.md",
+                "file": "Cheatsheets/Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4c456ef8ef8fc33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Brute Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e2c03ebdc0c1ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Tips and Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a119e47be993401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee499b80c97a8aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Active Directory/Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70672476be3b4cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Active Directory/Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "285dacd14ffea47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes.md",
+                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boxes.md",
+                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boxes.md"
+                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md"
               }
             }
           }
@@ -149,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51fb81d3fde635b4",
+  "active": "285dacd14ffea47f",
   "lastOpenFiles": [
-    "Cheatsheets/Windows/Windows Commands.md",
-    "Cheatsheets/Windows/Windows Reverse Shell.md",
-    "Tools List.md",
-    "Boxes.md",
-    "Cheatsheets/Recon.md",
-    "Cheatsheets/SMB.md",
-    "pentest_ad_dark.png",
+    "Cheatsheets/Active Directory/Recon.md",
+    "Cheatsheets/Active Directory/Methodology.md",
     "Cheatsheets/Active Directory.md",
-    "README.md",
-    "Notes/000 Introduction.md"
+    "Cheatsheets/Recon.md",
+    "Boxes.md",
+    "Cheatsheets/Tips and Tricks.md",
+    "Cheatsheets/Linux/Priv esc.md",
+    "Cheatsheets/Brute Force.md",
+    "Cheatsheets/SMB.md",
+    "Cheatsheets/Windows Commands.md"
   ]
 }
