@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Active Directory/Recon.md",
+                "file": "Cheatsheets/Active Directory/01 Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Active Directory/Recon.md",
+                "file": "Cheatsheets/Active Directory/01 Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
+                "file": "Cheatsheets/Windows/Windows Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c4f8e7721ba7222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
+                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md",
+                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Active Directory/Local Priv Escalation.md"
+                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md"
               }
             }
           }
@@ -221,17 +233,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "285dacd14ffea47f",
+  "active": "1c4f8e7721ba7222",
   "lastOpenFiles": [
-    "Cheatsheets/Active Directory/Recon.md",
-    "Cheatsheets/Active Directory/Methodology.md",
+    "Cheatsheets/Active Directory/02 Local Priv Escalation.md",
+    "Cheatsheets/Active Directory/00 Methodology.md",
+    "Cheatsheets/Active Directory/01 Recon.md",
+    "Cheatsheets/Linux/Priv esc.md",
+    "Cheatsheets/Windows/Windows Commands.md",
+    "Cheatsheets/Active Directory/03 Privilege Escalation.md",
+    "Cheatsheets/Windows/Windows Reverse Shell.md",
     "Cheatsheets/Active Directory.md",
     "Cheatsheets/Recon.md",
-    "Boxes.md",
-    "Cheatsheets/Tips and Tricks.md",
-    "Cheatsheets/Linux/Priv esc.md",
-    "Cheatsheets/Brute Force.md",
-    "Cheatsheets/SMB.md",
-    "Cheatsheets/Windows Commands.md"
+    "Boxes.md"
   ]
 }

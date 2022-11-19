@@ -1,3 +1,6 @@
+https://lolbas-project.github.io/#
+
+
 ## Download File
 
 ```powershell
@@ -29,6 +32,19 @@ powershell -nop -enc <BASE64_ENCODED_PAYLOAD> # Run on victim windows
 
 
 ## Windows Features #windows
+
+#### PS Constrained Language Mode
+
+Check
+```powershell
+$ExecutionContext.SessionState.LanguageMode
+#Values could be: FullLanguage or ConstrainedLanguage
+```
+
+#### AMSI Bypass
+
+https://amsi.fail/
+
 #### Enable WinRM
 
 ```powershell
@@ -78,3 +94,4 @@ ValueData : 0
 
 
 WinPeas needs .Net 4.0 to run properly
+

