@@ -59,12 +59,8 @@
             "id": "6a119e47be993401",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheatsheets/Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -104,19 +100,43 @@
             }
           },
           {
-            "id": "1c4f8e7721ba7222",
+            "id": "83b6bea3954c171b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
+                "file": "Cheatsheets/389 ldap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56469d569c90fd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheets/135 RPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "886246a33fb2e721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boxes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
+                "file": "Boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md",
+                "file": "Boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Active Directory/03 Privilege Escalation.md"
+                "file": "Boxes.md"
               }
             }
           }
@@ -233,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c4f8e7721ba7222",
+  "active": "886246a33fb2e721",
   "lastOpenFiles": [
-    "Cheatsheets/Active Directory/02 Local Priv Escalation.md",
-    "Cheatsheets/Active Directory/00 Methodology.md",
-    "Cheatsheets/Active Directory/01 Recon.md",
-    "Cheatsheets/Linux/Priv esc.md",
-    "Cheatsheets/Windows/Windows Commands.md",
-    "Cheatsheets/Active Directory/03 Privilege Escalation.md",
-    "Cheatsheets/Windows/Windows Reverse Shell.md",
-    "Cheatsheets/Active Directory.md",
+    "Cheatsheets/88 Kerberos.md",
+    "Cheatsheets/135 RPC.md",
+    "Cheatsheets/389 ldap.md",
+    "Cheatsheets/445 SMB.md",
+    "Cheatsheets/999 Keep in mind.md",
+    "Cheatsheets/Tips and Tricks.md",
     "Cheatsheets/Recon.md",
-    "Boxes.md"
+    "Cheatsheets/Brute Force.md",
+    "Cheatsheets/Active Directory.md",
+    "Cheatsheets/Windows Commands.md"
   ]
 }

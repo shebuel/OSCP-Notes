@@ -18,7 +18,7 @@
 - [ ] Bastion
 - [ ] Buff
 - [ ] Servmon
-- [ ] Active
+- [x] Active
 - [ ] Remote
 - [ ] Fuse #AD
 - [ ] Omni
