@@ -1,4 +1,4 @@
-### Recon
+crackmapexec smb 10.129.227.255 -u '' -p '' --continue-on-success### Recon
 
 #### Without creds
 
@@ -7,6 +7,7 @@ nmap -n -sV --script "ldap* and not brute"
 ```
 ldap with null auth and creds
 ```bash
+ldapsearch -x -h $ip -s base namingcontexts
 ldapsearch -x -H ldap://<IP> -D '' -w '' -b "DC=<1_SUBDOMAIN>,DC=<TLD>"
 ldapsearch -x -H ldap://<IP> -D '<DOMAIN>\<username>' -w '<password>' -b "DC=<1_SUBDOMAIN>,DC=<TLD>"
 ```

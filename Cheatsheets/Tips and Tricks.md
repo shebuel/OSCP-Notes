@@ -13,7 +13,22 @@ rlwrap ncat -lvp port
 
 #### Fully Interactive TTY Shell
 
-`# Using STTY # In reverse shell $ python -c 'import pty; pty.spawn("/bin/bash")' Ctrl-Z  # In Kali $ stty raw -echo $ fg  # In reverse shell $ reset $ export SHELL=bash $ export TERM=xterm-256color $ stty -raw echo OR $ stty rows <num> columns <cols>`
+```bash
+ctrl+z
+echo $TERM && tput lines && tput cols
+
+# for bash
+stty raw -echo
+fg
+
+# for zsh
+stty raw -echo; fg
+
+reset
+export SHELL=bash
+export TERM=xterm-256color
+stty rows <num> columns <cols>
+```
 
   
 

