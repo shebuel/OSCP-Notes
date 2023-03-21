@@ -1,0 +1,15 @@
+- Recon
+	- Users
+	- Computers
+	- Groups
+	- Domain Admin
+	- Enterprise Admins? 
+	- Shares and important files
+	- Group Policies 
+	- ACLs
+	- Trusts
+- Local Privilege Escalation (Find a list of valid username and have admin credentials for domain machine)
+- Lateral Movement
+- Domain Privilege escalation
+- Persistence
+
