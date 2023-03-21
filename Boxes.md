@@ -32,7 +32,7 @@
 - [ ] nibbles
 - [ ] beep
 - [x] cronos
-- [ ] nineveh
+- [x] nineveh
 - [ ] sense
 - [ ] solidstate
 - [ ] node
